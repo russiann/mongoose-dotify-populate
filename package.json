@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-dotify-populate",
+  "version": "0.0.1",
+  "description": "🍃 A Simple way to populate a document",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russiann/mongoose-dotify-populate.git"
+  },
+  "author": "Russian Rebouças",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/russiann/mongoose-dotify-populate/issues"
+  },
+  "homepage": "https://github.com/russiann/mongoose-dotify-populate#readme"
+}
