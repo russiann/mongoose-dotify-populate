@@ -2,7 +2,7 @@
   "name": "mongoose-dotify-populate",
   "version": "0.0.1",
   "description": "🍃 A Simple way to populate a document",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha test"
   },
